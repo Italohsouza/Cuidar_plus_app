@@ -1,0 +1,7 @@
+{
+  "name": "Cuidar+",
+  "description": "Um aplicativo de saúde para gerenciar medicamentos, agendar acompanhantes e organizar seu histórico médico com a ajuda da IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
